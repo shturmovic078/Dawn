@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/agolubev1/Desktop/Dawn/.metadata/.plugins/org.eclipse.jdt.core
+2373845712.index
