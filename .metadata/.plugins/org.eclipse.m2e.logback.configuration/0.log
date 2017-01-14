@@ -58,3 +58,33 @@
 2017-01-10 11:56:31,455 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/main/resources
 2017-01-10 11:56:31,456 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-01-10 11:56:31,456 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/test/resources
+2017-01-10 12:00:45,264 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/agolubev1/Desktop/Dawn/update
+2017-01-10 12:00:45,265 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DBrandUrl=http://author.dawn-dish.pgsitecore.com/en-us/products/by-line/liquid-orange-scent -DsuiteFile=ProductDetails.xml  -B test
+2017-01-10 12:01:47,676 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/agolubev1/Desktop/Dawn/update
+2017-01-10 12:01:47,676 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DBrandUrl=http://author.dawn-dish.pgsitecore.com/en-us/products/by-line/liquid-orange-scent -DsuiteFile=ProductDetails.xml  -B test -X
+2017-01-10 12:03:53,169 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/agolubev1/Desktop/Dawn/update
+2017-01-10 12:03:53,170 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DBrandUrl=http://author.dawn-dish.pgsitecore.com/en-us/products/by-line/liquid-orange-scent -DsuiteFile=ProductDetails.xml  -B test -X
+2017-01-10 15:03:32,141 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:03:32,144 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/main/resources
+2017-01-10 15:03:32,146 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:03:32,146 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/test/resources
+2017-01-10 15:03:45,825 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:03:45,825 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/main/resources
+2017-01-10 15:03:45,826 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:03:45,826 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/test/resources
+2017-01-10 15:04:44,721 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:04:44,723 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/main/resources
+2017-01-10 15:04:44,724 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:04:44,724 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/test/resources
+2017-01-10 15:04:54,165 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:04:54,165 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/main/resources
+2017-01-10 15:04:54,166 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:04:54,166 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/test/resources
+2017-01-10 15:06:43,733 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:06:43,733 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/main/resources
+2017-01-10 15:06:43,734 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:06:43,734 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/test/resources
+2017-01-10 15:13:56,494 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:13:56,495 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/main/resources
+2017-01-10 15:13:56,496 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-10 15:13:56,496 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Desktop/Dawn/update/src/test/resources
